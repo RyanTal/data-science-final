@@ -1,0 +1,5 @@
+"0",""
+"0","# `read_csv()` usecd to read in the data to variables"
+"0","global_cases = read_csv(urls[1])"
+"0","global_deaths = read_csv(urls[2])"
+"0",""

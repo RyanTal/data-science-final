@@ -1,0 +1,8 @@
+"0",""
+"0","NYPD_clean %>%"
+"0","  ggplot(aes(x = Year)) +"
+"0","  geom_bar(fill = ""lightblue"",show.legend = FALSE) +"
+"0","  labs(title = ""NYPD Shootings Incidents by Year"","
+"0","       x = ""Years (2006 - 2021)"","
+"0","       y = ""Total Number of Shootings"","
+"0","       caption = ""(Figure - 2)"")"
